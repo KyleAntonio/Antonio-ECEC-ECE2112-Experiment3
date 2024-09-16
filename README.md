@@ -5,4 +5,4 @@
 
 ## Problem 2
 ##### Problem 2 involves extracting information from the dataframe using subsetting, slicing, and indexing operations. For the first sub-problem, the first 5 rows was asked to be displayed but the odd numbered column must be exclusively shown. Using slicing and indexing, we can make the code such that it shows the first 5 rows. Using the same principle, we can start at index 1 for the column the slice in increments of 2 to get odd numbered columns.
-##### For the second and third sub-problem, .loc was used to specify the conditions that must be met to display the row and the given column. The same approach was used in the third sub-problem, however, the logical operator OR was used to look for multiple entries under one column.
+##### For the second and third sub-problem, .loc was used to specify the conditions that must be met to display the row and the given column. The same approach was used in the fourth sub-problem, however, the logical operator OR was used to look for multiple entries under one column.
